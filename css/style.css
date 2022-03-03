@@ -14,3 +14,20 @@
 .nav-li {
     margin-right: 20px;
 }
+
+/*section styles*/
+.section-1 {
+    display: flex;
+    justify-content: space-around;
+}
+.left-block {
+    width: 600px;
+
+}
+.right-block {
+     width: 800px;
+     height: 526.63px;
+}
+.text-1 {
+    font-size: 78px;
+}
